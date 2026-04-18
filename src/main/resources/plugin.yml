@@ -1,0 +1,6 @@
+name: Tmovie
+version: 1.0
+main: com.twiceextra.magicwands.MagicWands
+api-version: '1.21'
+author: Minecraft Forge AI
+description: A cinematic Magic Wands plugin for Paper 1.21.4.
